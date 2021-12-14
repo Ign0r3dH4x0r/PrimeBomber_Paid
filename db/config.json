@@ -1,0 +1,6 @@
+{
+    "success": true,
+    "validate_token_endpoint": "https:\/\/bomber.betasowmik.xyz\/index.php\/api\/validate",
+    "init_endpoint": "https:\/\/bomber.betasowmik.xyz\/index.php\/api\/getConfig",
+    "log_bombing_endpoint": "https:\/\/bomber.betasowmik.xyz\/index.php\/api\/log"
+}
